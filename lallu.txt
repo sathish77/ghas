@@ -1,0 +1,17 @@
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+      int a,b,c,d;
+      printf("enter the value for a");
+      scanf("%d",&a);
+      printf("enter the value for b");
+      scanf("%d",&b);
+      c=a+b;
+      d=a-b;
+      printf("\nthe addition of two number %d\n",c);
+      printf("\nthe subtraction of two numbers %d\n",d);
+ printf("\nthe subtraction of two numbers %d\n",d);
+      getch();
+      }
+      
